@@ -1,5 +1,5 @@
 - 👋 Oi! Eu sou o Pedro.
 - 👀 Tenho interesse em jogos, músicas, filmes e viagens.
-- 🌱 Atualmente estudo desenvolvimento Python e Data Science.
-- 💞️ Procuro colaborar e me destacar na área da ciência e análise de dados.
-- 📫 Estou no Instagram como @phsoaresb. Bem-vindo ao meu repositório.
+- 🌱 Python Developer, com interesse e curiosidade em Ciência de Dados.
+- 💞️ Amo minha família, trabalhar e desenvolver coisas novas.
+- 📫 Cursando Análise e Desenvolvimento de Sistemas.
