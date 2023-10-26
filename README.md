@@ -1,5 +1,5 @@
 - 👋 Oi! Eu sou o Pedro.
-- 👀 Tenho interesse em jogos, músicas, filmes e viagens.
-- 🌱 Python Developer, com interesse e curiosidade em Ciência de Dados.
+- 👀 Sou gamer e pai.
+- 🌱 Python Developer, com interesse e curiosidade em Ciência de Dados. Também desenvolvo com HTML, CSS e JavaScript.
 - 💞️ Amo minha família, trabalhar e desenvolver coisas novas.
 - 📫 Cursando Análise e Desenvolvimento de Sistemas.
