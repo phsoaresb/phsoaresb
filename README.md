@@ -1,7 +1,7 @@
 - 👋 Oi! Eu sou o Pedro.
-- 👀 Sou gamer e pai.
-- 🌱 Sou um front-end developer com habilidades em HTML, CSS, JS, Python, e as vezes dou uma brincada com C# e .NET
-- 💞️ Amo minha família, trabalhar e desenvolver coisas novas.
+- 👀 Sou gamer e pai de menina.
+- 🌱 Desenvolvedor front-end com habilidades em HTML, CSS, JS, Python, e as vezes dou uma brincada com C# e .NET
+- 💞️ Minha paixão é estudar tecnologia. Aprender, aprender e aprender!
 - 📫 Cursando Análise e Desenvolvimento de Sistemas.
 - <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phsoaresb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
