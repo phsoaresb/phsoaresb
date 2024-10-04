@@ -1,6 +1,6 @@
 - 👋 Oi! Eu sou o Pedro.
-- 👀 Sou gamer e pai de menina.
-- 🌱 Desenvolvedor front-end com habilidades em HTML, CSS, JS, Python, e as vezes dou uma brincada com C# e .NET
+- 👀 Trabalho com suporte de T.I
+- 🌱 Desenvolvedor full-stack, mexo com Javascript, NodeJS, VueJS, SQL, Git e versionamento de código e API's.
 - 💞️ Minha paixão é estudar tecnologia. Aprender, aprender e aprender!
 - 📫 Cursando Análise e Desenvolvimento de Sistemas.
 - <div align="center">
